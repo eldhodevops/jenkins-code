@@ -4,7 +4,7 @@ FROM jenkins/jenkins:latest
 
 #just info about who created this
 
-MAINTAINER Allan John
+MAINTAINER Eldhose 
 
 #get rid of admin password setup
 
